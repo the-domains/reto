@@ -1,0 +1,14 @@
+layout_spectrum: 0.1418211
+color:
+  saturation: 0.9749104
+  lightness: 0.1774193
+  brandStrength: 0.7849463
+  brandColors:
+    - '#9BC0EC'
+    - '#377AC9'
+    - '#000A25'
+    - '#937C79'
+    - '#DBA07D'
+  rhythmicContrast: 0.8875579
+typography_spectrum: 0.4131564
+name: Reto
